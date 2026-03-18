@@ -31,7 +31,7 @@ O sistema permite controlar o **empréstimo e a devolução de itens do acervo**
 # 🗂️ Diagrama de Classes
 
 <p align="center">
-  <img src="docs/Diagrama_Sist_Ger_Biblioteca.drawio.png" width="650">
+  <img src="docs/Diagrama_Sist_Ger_Biblioteca_correcao.drawio.png" width="650">
 </p>
 
 ---
